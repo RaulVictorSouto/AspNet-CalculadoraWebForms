@@ -1,0 +1,15 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+.input {
+    margin-bottom: 10px;
+}
+
+.linha1 {
+    margin-bottom: 10px;
+}
+
+asp\:Button {
+    margin-right: 5px;
+}
